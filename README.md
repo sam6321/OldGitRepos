@@ -1,6 +1,8 @@
 # OldGitRepos
 A small tool to list and archive old git repositories associated with an organisation.
 
+Dependencies: `pip install PyGithub`
+
 Usage: python main.py [arguments]
 
 ## Arguments: 
